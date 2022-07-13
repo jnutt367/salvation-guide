@@ -1,0 +1,305 @@
+.container {
+    padding: 0 2rem;
+    background-image: url(/cloud_lightning.webp);
+    background-size: cover;
+}
+
+.main {
+    background-color: white;
+    background-size: contain;
+    background-size: contain;
+    min-height: 100vh;
+    padding: 4rem 0;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer {
+    display: flex;
+    flex: 1;
+    padding: 2rem 0;
+    border-top: 1px solid #eaeaea;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-grow: 1;
+}
+
+.nav ul {
+    display: flex;
+    flex-basis: auto;
+    color: #fafafa;
+    justify-content: space-around;
+    list-style: none;
+    font-size: xx-large;
+    padding-top: 3rem;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.donateButton {
+    width: 200px;
+}
+
+.donateButton:hover {
+    background-image: url(/cloud_lightning.webp);
+    color: white;
+    cursor: pointer;
+}
+
+.title a {
+    color: orange;
+    text-decoration: none;
+    background-image: url(/cloud_lightning.webp);
+    padding: 2rem;
+    opacity: 0.9;
+    text-shadow: 1px 1px white;
+}
+
+.title a:hover,
+.title a:focus,
+.title a:active {
+    text-shadow: 1px 1px white;
+    opacity: 1;
+}
+
+.titleSpan {
+    font-size: x-large;
+    float: right;
+    padding: 2rem;
+    padding-right: 5rem;
+    text-shadow: 2px 2px white;
+    position: relative;
+    top: 2rem;
+    right: 12rem;
+}
+
+.title {
+    background-image: url(/cloud_lightning.webp);
+    background-size: cover;
+    margin: 2rem;
+    line-height: 1.15;
+    height: 10rem;
+    width: 100%;
+    font-size: 4rem;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.title,
+.description {
+    text-align: center;
+}
+
+.description {
+    color: black;
+    text-shadow: 2px 2px black;
+    padding: 2rem;
+    padding-right: 3rem;
+    margin: 0rem 0;
+    line-height: 1.5;
+    font-size: 1rem;
+    max-width: 60rem;
+}
+
+.code {
+    border-radius: 5px;
+    color: orange;
+    text-shadow: 2px 2px black;
+    background-image: url(/cloud_lightning.webp);
+    padding: 3rem;
+    margin: 3rem;
+    font-size: 1.1rem;
+    font-weight: 900;
+    font-family: Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace;
+}
+
+.code:hover {
+    color: white;
+    text-shadow: 1.5px 1.5px orange;
+    opacity: 0.9;
+    cursor: help;
+}
+
+.span {
+    font-size: xx-large;
+    color: orange;
+    text-shadow: 1px 1px black;
+}
+
+.span:hover {
+    color: black;
+}
+
+.nav ul li {
+    display: flex;
+    flex-basis: auto;
+    color: #fafafa;
+    justify-content: space-around;
+    list-style: none;
+    font-size: xx-large;
+    padding-top: 3rem;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.nav ul:hover {
+    color: orange;
+    text-decoration: underline;
+}
+
+.grid {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    max-width: 1400px;
+}
+
+.h2 {
+    background-image: none;
+    opacity: 0.75;
+    background-size: cover;
+    text-shadow: 1px 1px white;
+    margin-top: 0rem;
+    padding: 2rem;
+    text-align: left;
+    font-size: larger;
+    color: black;
+    text-decoration: none;
+    transition: color .5s ease, border-color 0.15s ease;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.h2:hover {
+    color: white;
+    border-color: hsl(184, 42%, 62%);
+    text-decoration: dashed;
+    background-color: black;
+    opacity: 0.85;
+    font-family: Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.card {
+    margin: 1rem;
+    padding: 1.5rem;
+    text-align: left;
+    color: inherit;
+    max-height: 300px;
+    overflow: scroll;
+    text-decoration: none;
+    border: 1px solid #eaeaea;
+    border-radius: 10px;
+    transition: color 0.15s ease, border-color 0.15s ease;
+    max-width: 300px;
+    font-family: monospace;
+}
+
+.card:hover,
+.card:focus,
+.card:active {
+    color: black;
+    border-color: hsl(212, 100%, 48%);
+    background-image: url(/monophy.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    cursor: all-scroll;
+    background-color: white;
+    opacity: 0.9;
+    overflow: scroll;
+    font-family: monospace;
+}
+
+.card h2 {
+    margin: 0 0 1rem 0;
+    font-size: 1.5rem;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.card h2:hover {
+    text-shadow: 1px 1px white;
+    color: black;
+}
+
+.card p {
+    margin: 0;
+    font-size: 1.25rem;
+    line-height: 1.5;
+    font-family: monospace;
+}
+
+.card p:hover {
+    text-shadow: 1px 1px white;
+    font-weight: 900;
+}
+
+.logo {
+    height: 1em;
+    margin-left: 0.5rem;
+}
+
+.flex {
+    margin-top: -100px;
+    padding-top: 1rem;
+    padding-bottom: 0rem;
+    display: flex;
+    justify-content: space-around;
+}
+
+.publisher {
+    font-family: monospace;
+    color: orange;
+    font-size: 2.5rem;
+    margin-left: 2rem;
+}
+
+@media (max-width: 600px) {
+    .grid {
+        width: 100%;
+        flex-direction: column;
+    }
+}
+
+@media (max-width: 769px) {
+    .nav ul {
+        display: none;
+        color: #fafafa;
+        justify-content: center;
+        flex-direction: column;
+        align-items: center;
+        margin-left: -2rem;
+    }
+}
+
+@media (max-width: 500px) {
+    .publisher {
+        font-size: 1.5rem;
+    }
+    .title {
+        font-size: 2rem;
+    }
+}
+
+@media (min-width: 600px) {
+    .title {
+        font-size: 5rem;
+    }
+    .flex {
+        margin-top: 0rem;
+    }
+}
+
+@media (max-width: 500px) {
+    .flex {
+        display: grid;
+    }
+    .code {
+        height: 100px;
+        margin: 1rem;
+    }
+}
