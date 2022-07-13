@@ -12,8 +12,10 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
+     
         <h1 className={styles.title}>
-         <a href="https://en.wikipedia.org/wiki/Second_Epistle_to_the_Thessalonians">2 Thessalonians</a>
+        <a>2</a>
+         <a href="https://en.wikipedia.org/wiki/Second_Epistle_to_the_Thessalonians">Thessalonians</a>
         </h1>
         <div className={styles.flex}>
            
