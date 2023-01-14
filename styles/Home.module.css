@@ -121,10 +121,12 @@
 
 
 .button:hover {
-    color: black;
-    text-shadow: 1.5px 1.5px white;
+   color: white;
+    background-color: brown;
+    opacity: 0.7;
+    text-shadow: 1px 1px black;
     opacity: 1;
-    border-style: 2p inset black;
+    border-style: 2px inset black;
     cursor:pointer;
 }
 
