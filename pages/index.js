@@ -19,7 +19,7 @@ export default function Home() {
         </h1>
           <div className={styles.hero}>
        <Image 
-                                src="/2_Thessalonians (1).jpg"
+                                src="/2_Thessalonians (2).jpg"
                                 alt="Jesus teaching"
                                 height={900}
                                 width={2000}
