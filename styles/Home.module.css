@@ -1,14 +1,11 @@
 .container {
-    padding: 0 2rem;
-    background-color: #2d2d2d;
-    background-size: cover;
+    
+    background-color: #9F2B68;
     background-repeat: no-repeat;
 }
 
 .main {
-    background-color: silver;
-    background-size: contain;
-    background-size: contain;
+    background-color: #9F2B68;
     min-height: 100vh;
     padding: 4rem 0;
     flex: 1;
@@ -85,15 +82,15 @@
 
 
 .title {
+  color: white;
   position: relative;
   top: -50px;
   margin-top: 0;
-  font-family: Ariel, sans, , serif, sans-serif, cursive, fantasy;
-  text-shadow: 2px 2px grey;
+  font-family: Ariel, sans, serif, sans-serif, cursive, fantasy;
+  text-shadow: #FC0 1px 0 10px;
   font-size: 36px;
   margin-bottom: 3.5rem;
 }
-
 
 
 
@@ -103,7 +100,6 @@
 }
 
 .description {
-    color: grey;
     text-shadow: 1px 1px black;
     padding: 2rem;
     padding-right: 3rem;
@@ -112,16 +108,12 @@
     font-size: 1rem;
     max-width: 60rem;
 }
-.button {
-    width:100%;
-    background-color: silver;
-    border-radius: 15px;
-}
+
 
 
 .button:hover {
-   color: white;
-    background-color: brown;
+    color: black;
+    background-color:#CBC3E3;
     opacity: 0.7;
     text-shadow: 1px 1px black;
     opacity: 1;
@@ -139,20 +131,21 @@
     color: white;
 }
 
-.nav ul li {
+.nav {
     display: flex;
-    flex-basis: auto;
-    color: #fafafa;
+    flex-direction: row;
     justify-content: space-around;
-    list-style: none;
-    font-size: xx-large;
-    padding-top: 3rem;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
-
-.nav ul:hover {
-    color: orange;
-    text-decoration: underline;
+.button {
+    color: white;
+    height: 30px;
+    width: 70px;
+    font-size: 7px;
+    border-radius: 50px 20px;
+    background-color: #9F2B68;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 5px;
 }
 
 .grid {
@@ -188,26 +181,27 @@
 }
 
 .card {
-    margin: 1rem;
+    color: white;
+    margin: 1.5rem;
     padding: 1.5rem;
     text-align: left;
-    color: inherit;
     max-height: 300px;
     overflow: scroll;
     text-decoration: none;
     border: 1px solid #eaeaea;
     border-radius: 10px;
-    transition: color 0.15s ease, border-color 0.15s ease;
-    max-width: 300px;
+    transition: color 1s ease, border-color 0.15s ease;
+    max-width: 500px;
     font-family: monospace;
 }
 
 .card:hover,
 .card:focus,
 .card:active {
+    display: inline;
     color: black;
     border-color: hsl(212, 100%, 48%);
-    background-image: url(/tea-stained.jpg);
+    background-image: url(/closeup-old-paper-texture-age-marks.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     cursor: all-scroll;
@@ -257,4 +251,41 @@
     font-family: Arial, Verdana, Tahoma, Trebuchet MS, Times New Roman, Georgia, Garamond, Courier New, Brush Script MT; 
     color: flex;
     margin-left: 2rem;
+}
+
+@media (max-width: 600px) {
+    .grid {
+        width: 100%;
+        flex-direction: column;
+    }
+}
+
+@media (max-width: 769px) {
+    .nav ul {
+        display: none;
+        color: #fafafa;
+        justify-content: center;
+        flex-direction: column;
+        align-items: center;
+        margin-left: -2rem;
+    }
+}
+
+
+@media (min-width: 600px) {
+   
+    .flex {
+        margin-top: 0rem;
+    }
+}
+
+@media (max-width: 500px) {
+    .flex {
+        display: grid;
+    }
+    .card {
+       margin: 0;
+       margin-top: 5rem;
+       max-width: 100%;
+    }
 }
