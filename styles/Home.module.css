@@ -5,26 +5,30 @@
 }
 .holy {
   backgroud-color: silver;
-  text-shadow: #FC0 1px 0 10px;
+  text-shadow: #ffa500 1px 0 10px;
   color: black;
   font-family: Ariel, sans, serif, sans-serif, cursive, fantasy;
   position: relative;
-   top: 12px;
+  top: 52px;
   font-size: 36px;
- 
+  display: grid;
+  align-items: center;
+  justify-items: center;
   padding-left: 5px;
   tex-align: left;
 }
 .bible {
  position: relative;
-  top: -40px;
+  top: -0px;
   margin-top: 0;
   font-family: Ariel, sans, , serif, sans-serif, cursive, fantasy;
-  text-shadow: #FC0 1px 0 10px;
+  text-shadow: #ffa500 1px 0 10px;
   color: black;
   font-size: 64px;
   padding-left: 5px;
-
+  display: grid;
+  align-items: center;
+  justify-items: center;
   tex-align: left;
 }
 
@@ -119,7 +123,7 @@
   top: -50px;
   margin-top: 0;
   font-family: Ariel, sans, serif, sans-serif, cursive, fantasy;
-  text-shadow: #FC0 1px 0 10px;
+  text-shadow: #ffa500 1px 0 10px;
   font-size: 64px;
   margin-bottom: 1rem;
 }
@@ -342,10 +346,16 @@
         padding: 0;
     }
     .holy {
-        padding: 0;
+         display: block;
+         padding: 0;
+         text-align: left;
+         top: 10px;
     }
     .bible {
-    padding: 0;
+        display: block;
+        padding: 0;
+        text-align: left;
+        top: -40px;
     }
     .title  {
     font-size: 36px;
