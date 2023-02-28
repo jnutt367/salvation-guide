@@ -35,30 +35,30 @@ export default function Home() {
                                <div className={styles.nav}>           
       <a href="https://first-thessalonians.vercel.app/">
              <Image 
-                                src="/702-7024826_computer-back-icon-left-right-arrow-cartoon-arrow.png"
+                                src="/chevron-left.svg"
                                 alt="Jesus"
-                                 height={100}
-                                width={100}
+                                 height={75}
+                                width={75}
                                 priority
                               />
        </a>
 
          <a href="#PayPalButton">
             <Image 
-                                src="/SCROLL-DOWN-button-kopie1.gif"
+                                src="/chevron-down.svg"
                                 alt="Jesus"
-                                 height={100}
-                                width={100}
+                                 height={75}
+                                width={75}
                                 priority
                               />
            
         </a> 
          <a href="https://first-timothy.vercel.app/">
            <Image 
-                                src="/jean_victor_balin_arrow_orange_right.png"
+                                src="/chevron-right.svg"
                                 alt="Jesus"
-                                 height={100}
-                                width={100}
+                                 height={75}
+                                width={75}
                                 priority
                               />
            
@@ -67,7 +67,7 @@ export default function Home() {
                </div>
         <div className={styles.grid}>
           <div className={styles.card}>
-            <h2>Chapter 1 &darr;</h2>
+            <h2 className={styles.chapter}>I Thessalonians Chapter I</h2>
             <p>1 Paul, Silas[a] and Timothy,
 
 To the church of the Thessalonians in God our Father and the Lord Jesus Christ:
@@ -85,7 +85,7 @@ Thanksgiving and Prayer
           </div>
 
           <div className={styles.card}>
-            <h2>Chapter 2 &darr;</h2>
+             <h2 className={styles.chapter}>I Thessalonians Chapter II/h2>
             <p>The Man of Lawlessness
 2 Concerning the coming of our Lord Jesus Christ and our being gathered to him, we ask you, brothers and sisters, 2 not to become easily unsettled or alarmed by the teaching allegedly from us—whether by a prophecy or by word of mouth or by letter—asserting that the day of the Lord has already come. 3 Don’t let anyone deceive you in any way, for that day will not come until the rebellion occurs and the man of lawlessness[a] is revealed, the man doomed to destruction. 4 He will oppose and will exalt himself over everything that is called God or is worshiped, so that he sets himself up in God’s temple, proclaiming himself to be God.
 
@@ -102,7 +102,7 @@ Stand Firm
           <div
             className={styles.card}
           >
-            <h2>Chapter 3 &rarr;</h2>
+            <h2 className={styles.chapter}>I Thessalonians Chapter III</h2>
             <p>Request for Prayer
 3 As for other matters, brothers and sisters, pray for us that the message of the Lord may spread rapidly and be honored, just as it was with you. 2 And pray that we may be delivered from wicked and evil people, for not everyone has faith. 3 But the Lord is faithful, and he will strengthen you and protect you from the evil one. 4 We have confidence in the Lord that you are doing and will continue to do the things we command. 5 May the Lord direct your hearts into God’s love and Christ’s perseverance.
 
@@ -117,7 +117,7 @@ Warning Against Idleness
           <div
             className={styles.card}
           >
-            <h2>Word from the Publisher &darr;</h2>
+            <h2 className={styles.chapter}>A Word from the Publisher </h2>
             <p>
               Well, if you have made it this far I am assuming that Jesus has infiltrated your stubborn and rebelious heart ( dont worry I bet mine was just as stubborn as yours ) and 
               given you a new birth in His infinite wisdom through the death and resurection of His one and only son, into an inheritance that shall never fade, nevr spoil and never perish. God continue to bless this Disciple and give them what they have been asking for in earnest in Jesus name. Amen
