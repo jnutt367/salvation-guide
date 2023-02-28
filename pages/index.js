@@ -85,7 +85,7 @@ Thanksgiving and Prayer
           </div>
 
           <div className={styles.card}>
-             <h2 className={styles.chapter}>I Thessalonians Chapter II/h2>
+             <h2 className={styles.chapter}>I Thessalonians Chapter II</h2>
             <p>The Man of Lawlessness
 2 Concerning the coming of our Lord Jesus Christ and our being gathered to him, we ask you, brothers and sisters, 2 not to become easily unsettled or alarmed by the teaching allegedly from us—whether by a prophecy or by word of mouth or by letter—asserting that the day of the Lord has already come. 3 Don’t let anyone deceive you in any way, for that day will not come until the rebellion occurs and the man of lawlessness[a] is revealed, the man doomed to destruction. 4 He will oppose and will exalt himself over everything that is called God or is worshiped, so that he sets himself up in God’s temple, proclaiming himself to be God.
 
