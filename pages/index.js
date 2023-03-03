@@ -36,9 +36,9 @@ export default function Home() {
       <a href="https://first-thessalonians.vercel.app/">
              <Image 
                                 src="/chevron-left.svg"
-                                alt="Jesus"
-                                 height={75}
-                                width={75}
+                                alt="left"
+                                 height={25}
+                                width={25}
                                 priority
                               />
        </a>
@@ -46,9 +46,9 @@ export default function Home() {
          <a href="#PayPalButton">
             <Image 
                                 src="/chevron-down.svg"
-                                alt="Jesus"
-                                 height={75}
-                                width={75}
+                                alt="down"
+                                 height={25}
+                                width={25}
                                 priority
                               />
            
@@ -56,9 +56,9 @@ export default function Home() {
          <a href="https://first-timothy.vercel.app/">
            <Image 
                                 src="/chevron-right.svg"
-                                alt="Jesus"
-                                 height={75}
-                                width={75}
+                                alt="right"
+                                 height={25}
+                                width={25}
                                 priority
                               />
            
