@@ -269,8 +269,14 @@
 }
 
 .card {
-    background-image: url(/FlusteredLeafyAllosaurus-max-1mb.gif);
-    background-size:contain;
+      background-image: url(/cross-hands-god-jesus-religion-faith-pray-prayer-christian.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-position-x: center;
+    background-position-y: center;
+    background-origin: content-box;
+    background-size: cover;
     display: grid;
     place-items: center;
     background-repeat: no-repeat;
@@ -278,6 +284,7 @@
     margin: 1.5rem;
     margin-bottom: 5rem;
     padding: 0rem;
+    padding-top: -25px;
     text-align: left;
     max-height: 350px;
     max-width: 400px;
