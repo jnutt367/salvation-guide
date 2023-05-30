@@ -84,7 +84,7 @@ opposite. We so often judge things by human standards, but God is not restrained
           <div
             className={styles.card}
           >
-            <h2 className={styles.chapter}>the sinner's prayer</h2>
+            <h2 className={styles.chapter}>The Sinner's Prayer</h2>
             <p>If you are not quite ready or are not sure if you want to take that leap of faith, I want to invite you to check out this blog post: <a href="https://ourkingdomculture.com/how-to-be-saved/">How to be saved.</a>
 
 But if you feel Jesus knocking in your heart and you are ready to say yes to Him, just talk to Him and ask Him to come in your heart and be your Lord and savior. If you need help praying here is a little prayer you can say.
