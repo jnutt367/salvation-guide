@@ -68,7 +68,7 @@ export default function Home() {
                </div>
         <div className={styles.grid}>
           <div className={styles.card}>
-            <h2 className={styles.chapter}>Do you have to be baptized?/h2>
+            <h2 className={styles.chapter}>Do you have to be baptized?</h2>
             <p>Do you have to be baptized to go to heaven? 
 
 While Jesus told Nicodemus, “Amen, Amen, I say to you, no one can enter the kingdom of God without being born of water and Spirit” (John 3:5), he did not set baptism as a hindrance to salvation but just the 
@@ -77,18 +77,8 @@ opposite. We so often judge things by human standards, but God is not restrained
           </div>
 
           <div className={styles.card}>
-             <h2 className={styles.chapter}>I Thessalonians Chapter II</h2>
-            <p>The Man of Lawlessness
-2 Concerning the coming of our Lord Jesus Christ and our being gathered to him, we ask you, brothers and sisters, 2 not to become easily unsettled or alarmed by the teaching allegedly from us—whether by a prophecy or by word of mouth or by letter—asserting that the day of the Lord has already come. 3 Don’t let anyone deceive you in any way, for that day will not come until the rebellion occurs and the man of lawlessness[a] is revealed, the man doomed to destruction. 4 He will oppose and will exalt himself over everything that is called God or is worshiped, so that he sets himself up in God’s temple, proclaiming himself to be God.
-
-5 Don’t you remember that when I was with you I used to tell you these things? 6 And now you know what is holding him back, so that he may be revealed at the proper time. 7 For the secret power of lawlessness is already at work; but the one who now holds it back will continue to do so till he is taken out of the way. 8 And then the lawless one will be revealed, whom the Lord Jesus will overthrow with the breath of his mouth and destroy by the splendor of his coming. 9 The coming of the lawless one will be in accordance with how Satan works. He will use all sorts of displays of power through signs and wonders that serve the lie, 10 and all the ways that wickedness deceives those who are perishing. They perish because they refused to love the truth and so be saved. 11 For this reason God sends them a powerful delusion so that they will believe the lie 12 and so that all will be condemned who have not believed the truth but have delighted in wickedness.
-
-Stand Firm
-13 But we ought always to thank God for you, brothers and sisters loved by the Lord, because God chose you as firstfruits[b] to be saved through the sanctifying work of the Spirit and through belief in the truth. 14 He called you to this through our gospel, that you might share in the glory of our Lord Jesus Christ.
-
-15 So then, brothers and sisters, stand firm and hold fast to the teachings[c] we passed on to you, whether by word of mouth or by letter.
-
-16 May our Lord Jesus Christ himself and God our Father, who loved us and by his grace gave us eternal encouragement and good hope, 17 encourage your hearts and strengthen you in every good deed and word.</p>
+             <h2 className={styles.chapter}>The Lord's Prayer </h2>
+            <p> (Matthew 6:9-13): “'Our Father in heaven, Hallowed be your name, Your kingdom come, Your will be done, On earth as it is in heaven. Give us today our daily bread. And forgive us our debts, As we also have forgiven our debtors. And lead us not into temptation, But deliver us from the evil one.</p>
           </div>
 
           <div
