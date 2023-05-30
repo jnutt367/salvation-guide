@@ -84,17 +84,18 @@ opposite. We so often judge things by human standards, but God is not restrained
           <div
             className={styles.card}
           >
-            <h2 className={styles.chapter}>I Thessalonians Chapter III</h2>
-            <p>Request for Prayer
-3 As for other matters, brothers and sisters, pray for us that the message of the Lord may spread rapidly and be honored, just as it was with you. 2 And pray that we may be delivered from wicked and evil people, for not everyone has faith. 3 But the Lord is faithful, and he will strengthen you and protect you from the evil one. 4 We have confidence in the Lord that you are doing and will continue to do the things we command. 5 May the Lord direct your hearts into God’s love and Christ’s perseverance.
+            <h2 className={styles.chapter}>the sinner's prayer</h2>
+            <p>If you are not quite ready or are not sure if you want to take that leap of faith, I want to invite you to check out this blog post: <a href="https://ourkingdomculture.com/how-to-be-saved/">How to be saved.</a>
 
-Warning Against Idleness
-6 In the name of the Lord Jesus Christ, we command you, brothers and sisters, to keep away from every believer who is idle and disruptive and does not live according to the teaching[a] you received from us. 7 For you yourselves know how you ought to follow our example. We were not idle when we were with you, 8 nor did we eat anyone’s food without paying for it. On the contrary, we worked night and day, laboring and toiling so that we would not be a burden to any of you. 9 We did this, not because we do not have the right to such help, but in order to offer ourselves as a model for you to imitate. 10 For even when we were with you, we gave you this rule: “The one who is unwilling to work shall not eat.”
+But if you feel Jesus knocking in your heart and you are ready to say yes to Him, just talk to Him and ask Him to come in your heart and be your Lord and savior. If you need help praying here is a little prayer you can say.
 
-11 We hear that some among you are idle and disruptive. They are not busy; they are busybodies. 12 Such people we command and urge in the Lord Jesus Christ to settle down and earn the food they eat. 13 And as for you, brothers and sisters, never tire of doing what is good.
+DEAR GOD, I KNOW THAT I AM A SINNER AND I ASK YOU TO PLEASE FORGIVE MY SINS. I BELIEVE IN MY HEART THAT JESUS IS YOUR SON; THAT HE DIED FOR ME ON A CROSS AND YOU RAISED HIM BACK TO LIFE. JESUS, I DECLARE THAT YOU ARE MY LORD AND I OPEN MY HEART TO YOU. CHANGE ME AND HELP ME TO FOLLOW YOU ALL THE DAYS OF MY LIFE. HELP ME TO BE MORE LIKE YOU AND TO DO YOUR WILL.
+IN JESUS’S NAME, I PRAY.
+AMEN.
 
-14 Take special note of anyone who does not obey our instruction in this letter. Do not associate with them, in order that they may feel ashamed. 15 Yet do not regard them as an enemy, but warn them as you would a fellow believer.</p>
-          </div>
+If you said that prayer and meant it with all your heart, then I want to be the first one to welcome you to the family of God! I promise you He is the best Father ever!!!
+
+  </div>
 
           <div
             className={styles.card}
