@@ -26,7 +26,7 @@ export default function Home() {
          <div  className={styles.image}>
           
        <Image 
-                                src="/2_Thessalonians (1).jpg"
+                                src="/wordle-god-is-light-4-random-word-wild (1).png"
                                 alt="Jesus teaching"
                                 height={900}
                                 width={2000}
