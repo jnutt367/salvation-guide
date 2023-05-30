@@ -94,6 +94,7 @@ IN JESUS’S NAME, I PRAY.
 AMEN.
 
 If you said that prayer and meant it with all your heart, then I want to be the first one to welcome you to the family of God! I promise you He is the best Father ever!!!
+  </p>
 
   </div>
 
