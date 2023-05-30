@@ -269,14 +269,13 @@
 }
 
 .card {
-      background-image: url(/cross-hands-god-jesus-religion-faith-pray-prayer-christian.jpg);
+    background-image: url(/wordle-god-is-light-4-random-word-wild (1).png);
     background-repeat: no-repeat;
-    background-attachment: fixed;
     background-position: center;
     background-position-x: center;
     background-position-y: center;
     background-origin: content-box;
-    background-size: cover;
+    background-size: contain;
     display: grid;
     place-items: center;
     background-repeat: no-repeat;
@@ -286,7 +285,7 @@
     padding: 0rem;
     padding-top: -25px;
     text-align: left;
-    max-height: 350px;
+    max-height: 400px;
     max-width: 400px;
     background-color: black;
     overflow: scroll;
