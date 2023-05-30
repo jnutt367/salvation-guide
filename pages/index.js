@@ -25,7 +25,7 @@ export default function Home() {
          <div  className={styles.image}>
           
        <Image 
-                                src="/2_Thessalonians (1).jpg
+                                src="/2_Thessalonians (1).jpg"
                                 alt="Jesus teaching"
                                 height={900}
                                 width={2000}
