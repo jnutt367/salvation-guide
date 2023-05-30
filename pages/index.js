@@ -68,7 +68,7 @@ export default function Home() {
         <div className={styles.grid}>
           <div className={styles.card}>
             <h2 className={styles.chapter}>Do you have to be baptized?/h2>
-            <p>Do you have to be baptized to go to heaven? </br>
+            <p>Do you have to be baptized to go to heaven? 
 
 While Jesus told Nicodemus, “Amen, Amen, I say to you, no one can enter the kingdom of God without being born of water and Spirit” (John 3:5), he did not set baptism as a hindrance to salvation but just the 
 opposite. We so often judge things by human standards, but God is not restrained by our standards
