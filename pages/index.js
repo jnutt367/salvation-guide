@@ -74,7 +74,12 @@ export default function Home() {
             <p>Do you have to be baptized to go to heaven? 
 
 While Jesus told Nicodemus, “Amen, Amen, I say to you, no one can enter the kingdom of God without being born of water and Spirit” (John 3:5), he did not set baptism as a hindrance to salvation but just the 
-opposite. We so often judge things by human standards, but God is not restrained by our standards
+opposite. We so often judge things by human standards, but God is not restrained by our standards</p>
+ <p>
+Clarification on the subject of salvation, I feel it to be of utmost importance wouldn't ya know it LOL....but just to be clear I DO believe that one DOES need to be BORN AGAIN
+  ....and no one can enter the kingdom of God unless they are born of water and the Spirit. Now then, that is where it gets to the discernment part right?
+
+So, what does he MEAN when He says "unless they are born of water and the Spirit."? Does that mean baptism? Or is being born again and baptism two separate events? I believe that they are. I know that I did NOT have to wait until I got in the water to receive a new heart, it came as soon as I first believed and called Him my savior, That moment was my salvation!!! Praise God forever and ever! Lastly, baptism IS somethhing that we NEED to do because clearly EVERYONE who becomes a disciple gets baptized if you listen to Jesus' command right at the very end of the gospel...MATTHEW 28:19 "therefore go and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit".   So it is the next logical step to be baptized after one becomes saved by calling on the name of the Lord Yeshua.
 </p>
           </div>
 
