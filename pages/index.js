@@ -17,7 +17,7 @@ export default function Home() {
           <h2 className={styles.holy}>THE WORD
             </h2>
                 <h1 className={styles.bible}>
-                    <a href="https://the-holy-bible.vercel.app/" target="_blank">OF GOD</a>
+                    <a href="https://the-word-of-god.vercel.app/" target="_blank">OF GOD</a>
                 </h1>
         
         <h1 className={styles.title}>
@@ -34,7 +34,9 @@ export default function Home() {
                               />
          
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/oNNZO9i1Gjc" title="YouTube video player" frameborder="3" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-          </div>           
+          </div>    
+
+<div className={styles.nav}> 
   <a href="https://the-holy-bible.vercel.app/">
            <Image className={styles.arrow}
                                 src="/chevron-left.svg"
