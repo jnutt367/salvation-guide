@@ -35,39 +35,37 @@ export default function Home() {
          
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/oNNZO9i1Gjc" title="YouTube video player" frameborder="3" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
           </div>           
-<div className={styles.nav}>           
-      <a href="https://first-thessalonians.vercel.app/">
-             <Image 
+  <a href="https://the-holy-bible.vercel.app/">
+           <Image className={styles.arrow}
                                 src="/chevron-left.svg"
-                                alt="left"
-                                 height={25}
-                                width={25}
+                                alt="Left arrow"
+                                height={75}
+                                width={75}
                                 priority
                               />
        </a>
 
-         <a href="#PayPalButton">
-            <Image 
-                                src="/chevron-down.svg"
-                                alt="down"
-                                 height={25}
-                                width={25}
+        <a href="https://www.youtube.com/channel/UCC4jNk2Tms-KNO1h1YOjfRw">
+              <Image className={styles.arrow}
+                                src="/youtube-logo-png-hd-21.png"
+                                alt="youtube-icon"
+                                height={75}
+                                width={75}
                                 priority
-                              />
+                              /> 
+       </a>
            
-        </a> 
-         <a href="https://first-timothy.vercel.app/">
-           <Image 
+           
+        <a href="https://mark-alpha.vercel.app/">
+             <Image className={styles.arrow}
                                 src="/chevron-right.svg"
-                                alt="right"
-                                 height={25}
-                                width={25}
+                                alt="right arrow"
+                                 height={75}
+                                width={75}
                                 priority
                               />
-           
-        </a> 
-         
-               </div>
+       </a>           
+        </div>
         <div className={styles.grid}>
           <div className={styles.card}>
             <h2 className={styles.chapter}>Do you have to be baptized?</h2>
