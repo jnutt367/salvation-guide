@@ -391,8 +391,8 @@
 
 @media (min-width: 1080px) {
          .image {
-        padding-left: 200px;
-        padding-right: 200px;     
+        padding-left: 300px;
+        padding-right: 300px;     
     }
     .grid {
         grid-template-columns: 200px 200px 200px;
