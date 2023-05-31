@@ -87,7 +87,7 @@ opposite. We so often judge things by human standards, but God is not restrained
             <h2 className={styles.chapter}>The Sinner's Prayer</h2>
             <p>If you are not quite ready or are not sure if you want to take that leap of faith, I want to invite you to check out this blog post: <a href="https://ourkingdomculture.com/how-to-be-saved/">How to be saved.</a>
 
-But if you feel Jesus knocking in your heart and you are ready to say yes to Him, just talk to Him and ask Him to come in your heart and be your Lord and savior. If you need help praying here is a little prayer you can say.
+ But if you feel Jesus knocking on your heart and you are ready to say yes to Him, just talk to Him and ask Him to come in your heart and be your Lord and savior. If you need help praying here is a little prayer you can say.
 
 DEAR GOD, I KNOW THAT I AM A SINNER AND I ASK YOU TO PLEASE FORGIVE MY SINS. I BELIEVE IN MY HEART THAT JESUS IS YOUR SON; THAT HE DIED FOR ME ON A CROSS AND YOU RAISED HIM BACK TO LIFE. JESUS, I DECLARE THAT YOU ARE MY LORD AND I OPEN MY HEART TO YOU. CHANGE ME AND HELP ME TO FOLLOW YOU ALL THE DAYS OF MY LIFE. HELP ME TO BE MORE LIKE YOU AND TO DO YOUR WILL.
 IN JESUS’S NAME, I PRAY.
@@ -104,7 +104,7 @@ If you said that prayer and meant it with all your heart, then I want to be the 
             <h2 className={styles.chapter}>A Word from the Publisher </h2>
             <p>
               Well, if you have made it this far I am assuming that Jesus has infiltrated your stubborn and rebelious heart ( dont worry I bet mine was just as stubborn as yours ) and 
-              given you a new birth in His infinite wisdom through the death and resurection of His one and only son, into an inheritance that shall never fade, nevr spoil and never perish. God continue to bless this Disciple and give them what they have been asking for in earnest in Jesus name. Amen
+              given you a new birth in His infinite wisdom through the death and resurection of His one and only son, into an inheritance that shall never fade, never spoil and never perish. God continue to bless this Disciple and give them what they have been asking for in earnest in Jesus name. Amen
             </p>
           </div>
         </div>
