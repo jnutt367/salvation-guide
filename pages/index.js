@@ -129,11 +129,12 @@ If you said that prayer and meant it with all your heart, then I want to be the 
               given you a new birth in His infinite wisdom through the death and resurection of His one and only son, into an inheritance that shall never fade, never spoil and never perish. God continue to bless this Disciple and give them what they have been asking for in earnest in Jesus name. Amen
             </p>
           </div>
+ <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FDiscipleofChristJasonNutt%2Fposts%2Fpfbid02AAMjeVWz3g6w3zmyakmDJes7QUeiQj5NLZ4s9Y8nhu3mb3BSqqTA6e3YxzbDbzo5l&show_text=true&width=500" width="100%" height="400" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
         </div>
 </div>
-                <div>
-                <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FDiscipleofChristJasonNutt%2Fposts%2Fpfbid02AAMjeVWz3g6w3zmyakmDJes7QUeiQj5NLZ4s9Y8nhu3mb3BSqqTA6e3YxzbDbzo5l&show_text=true&width=500" width="100%" height="400" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
-                </div>
+                
+               
+                
       </main>
 
       <footer className={styles.footer}>
