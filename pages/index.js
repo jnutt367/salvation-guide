@@ -21,7 +21,7 @@ export default function Home() {
                 </h1>
         
         <h1 className={styles.title}>
-        SALVATION GUIDE
+        RECEIVING CHRIST
         </h1>
          <div  className={styles.image}>
           
@@ -68,7 +68,22 @@ export default function Home() {
                               />
        </a>           
         </div>
+
         <div className={styles.grid}>
+          
+           <div className={styles.card}>
+            <h2 className={styles.chapter}>Receiving Christ</h2>
+            <p>( John 1:12 )
+              But to ALL who did receive Him, who believed in His name, He gave the right to be called children of God
+              </p>
+              <p>
+                ( Mark 1:13 )
+                "The time is fulfilled, and the kingdom of God is at hand, repent and believe in the gospel"
+                </p>
+          </div>
+          
+          
+          
           <div className={styles.card}>
             <h2 className={styles.chapter}>Do you have to be baptized?</h2>
             <p>Do you have to be baptized to go to heaven? 
@@ -116,6 +131,9 @@ If you said that prayer and meant it with all your heart, then I want to be the 
           </div>
         </div>
 </div>
+                <div>
+                <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FDiscipleofChristJasonNutt%2Fposts%2Fpfbid02AAMjeVWz3g6w3zmyakmDJes7QUeiQj5NLZ4s9Y8nhu3mb3BSqqTA6e3YxzbDbzo5l&show_text=true&width=500" width="100%" height="400" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+                </div>
       </main>
 
       <footer className={styles.footer}>
