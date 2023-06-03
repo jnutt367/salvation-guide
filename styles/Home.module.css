@@ -276,7 +276,7 @@
 }
 
 .grid {
-    background-color: skyblue;
+    background-color: black;
     color: black;
     display: flex;
     align-items: center;
@@ -332,6 +332,7 @@
     border: 3px solid #eaeaea;
     transition: color 0.15s ease, border-color 2s ease;
     font-family: monospace;
+    box-shadow: 10px 10px lightblue;
 }
 .chapter {
     background-color: white;
