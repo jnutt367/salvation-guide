@@ -73,6 +73,16 @@ export default function Home() {
           
            <div className={styles.card}>
             <h2 className={styles.chapter}>Receiving Christ</h2>
+            <p>
+              ( Romans 10:9-10 ) 
+"If you declare with your mouth, “Jesus is Lord,” and believe in your heart that God raised him from the dead, you will be saved. 10 For it is with your heart that you believe and are justified, and it is with your mouth that you profess your faith and are saved."
+
+
+              </p>
+
+
+
+
             <p>( John 1:12 )
               But to ALL who did receive Him, who believed in His name, He gave the right to be called children of God
               </p>
@@ -80,6 +90,8 @@ export default function Home() {
                 ( Mark 1:13 )
                 "The time is fulfilled, and the kingdom of God is at hand, repent and believe in the gospel"
                 </p>
+
+                
           </div>
           
            <div className={styles.card}>
