@@ -433,8 +433,8 @@
 
 @media (min-width: 1080px) {
          .image {
-        padding-left: 400px;
-        padding-right: 400px;     
+        padding-left: 300px;
+        padding-right: 300px;     
     }
     
            .grid {
@@ -450,7 +450,7 @@
         display: grid;
     }
     .image {
-        padding: 0;
+        padding: 100px;
         border: none;
     }
     .holy {
