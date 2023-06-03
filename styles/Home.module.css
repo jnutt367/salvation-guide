@@ -317,6 +317,7 @@
     background-size: contain;
     display: grid;
     place-items: center;
+    border-radius: 15px 50px 30px;
     background-repeat: no-repeat;
     color: transparent;
     margin: 1.5rem;
