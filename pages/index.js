@@ -26,8 +26,8 @@ export default function Home() {
          <div  className={styles.image}>
           
        <Image 
-                                src="/wordle-god-is-light-4-random-word-wild (1).png"
-                                alt="Jesus teaching"
+                                src="/New-Wordle-green.jpeg"
+                                alt="Jesus wordle"
                                 height={900}
                                 width={2000}
                                 priority
