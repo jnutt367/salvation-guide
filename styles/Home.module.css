@@ -308,7 +308,7 @@
 }
 
 .card {
-    background-image: url(/wordle-god-is-light-4-random-word-wild.png);
+    background-image: url(/New-Wordle-green.jpeg);
     background-repeat: no-repeat;
     background-position: center;
     background-position-x: center;
@@ -450,7 +450,7 @@
         display: grid;
     }
     .image {
-        padding: 100px;
+        padding: 15px;
         border: none;
     }
     .holy {
