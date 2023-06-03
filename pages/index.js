@@ -26,7 +26,7 @@ export default function Home() {
          <div  className={styles.image}>
           
        <Image 
-                                src="/New-Wordle-green.jpeg"
+                                src="/worldcloud_jesus.jpeg"
                                 alt="Jesus wordle"
                                 height={900}
                                 width={2000}
