@@ -72,7 +72,7 @@ export default function Home() {
         <div className={styles.grid}>
           
            <div className={styles.card}>
-            <h2 className={styles.chapter}>Receiving Christ? What's it Mean?</h2>
+            <h2 className={styles.chapter}>Receiving Christ? </h2>
             <p>
               Many terms used in Christianity can be confusing to new believers or those seeking to know more about Jesus. One such phrase recurs often: “Receive Jesus Christ as your Savior.” What exactly does it mean to “receive” Jesus? Since Jesus lived, died, and rose again over two thousand years ago, how can we “receive” Him now?
                 
