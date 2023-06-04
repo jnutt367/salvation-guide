@@ -81,6 +81,30 @@ export default function Home() {
               <p>
                 John 1:11–12 speaks of receiving Jesus and defines the term: “He [Jesus] came to that which was his own, but his own did not receive him. Yet to all who did receive him, to those who believed in his name, he gave the right to become children of God.” John equates “receiving” Jesus with “believing” in Him, which results in one’s becoming a child of God. So, receiving Jesus has to do with faith. We trust who Jesus is and what He has done on our behalf.
                 </p>
+
+                  <p>
+                  When we “receive” a birthday present, we accept it with gladness and embrace it. When a wide receiver “receives” the football, he pulls it to himself and clings to it. 
+                  When we “receive” Jesus, we take Him into our heart and cling to the truth about Him... which means we begin a journey of getting to know the truth about Jesus. And adopt a responsability to do so
+                  in order that we may spread His word properly and know what it is that we are talking about when it comes to the fulness of Christ.
+                  </p>
+                  <p>
+To receive Jesus as our Savior means we look to Him and Him alone as the One who forgives our sin, mends our relationship with God, and provides us entrance to heaven. To reject Him as Savior means we either don’t believe we need salvation or are looking to another deliverer. Scripture is plain, however, that “salvation is found in no one else, for there is no other name under heaven given to mankind by which we must be saved” (Acts 4:12).
+
+To receive Jesus as our Lord means we let go of the lesser gods we have built our lives around. We may know the facts about Jesus as detailed in the Bible—we can even acknowledge the truth of those facts—without being a part of God’s family. We cannot receive Jesus as Lord without displacing the idols in our lives—idols such as power, popularity, wealth, or comfort that we trust to provide us with purpose and strength. Jesus described the need to follow Him wholeheartedly in Luke 9:23: “Whoever wants to be my disciple must deny themselves and take up their cross daily and follow me.”
+
+When Jesus visited His hometown of Nazareth, the people there did not believe He was anything other than the son of Mary and Joseph (Matthew 13:54–58; see also John 6:41–42). They accepted Him as a local carpenter but rejected Him as the promised Messiah. Many people today do a similar thing. They accept Jesus as a good moral teacher, a role model, or even a prophet who can teach us about God. But they stop short of receiving Him as their personal Lord and Savior. They do not commit their faith to Him.
+
+Receiving Jesus is a matter of one’s eternal destiny: “For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life. For God did not send his Son into the world to condemn the world, but to save the world through him. Whoever believes in him is not condemned, but whoever does not believe stands condemned already because they have not believed in the name of God’s one and only Son” (John 3:16–18).
+
+To receive Jesus means we acknowledge that He is who He said He is (1 John 5:10; Matthew 27:43; John 20:31). He is the Son of God who took on human form (Philippians 2:6–8), was born of a virgin (Luke 1:26–38), lived a perfect life (Hebrews 4:15), and accomplished in full God’s plan to rescue mankind from sin (Matthew 1:18; 1 Peter 1:20; John 19:30; 2 Corinthians 5:18–21). To receive Jesus is to trust that His sacrifice on the cross completely paid for our sin and to believe that God raised Him from the dead (1 Corinthians 15:3–5, 20; 2 Timothy 2:8).
+
+To receive Jesus is to recognize that we are sinners separated from a holy God (Romans 3:23; 6:23; Ephesians 2:1–3). To receive Jesus is to call out to Him in faith, trusting that only His blood can cleanse us from sin and restore us to a right relationship with God (Ephesians 2:4–10; 1 John 1:7; Hebrews 10:19–22). Those who receive Jesus by faith are given “the right to become children of God—children born not of natural descent, nor of human decision or a husband’s will, but born of God” (John 1:12–13).
+
+When we receive Jesus as our Savior, God sends us the gift of His Holy Spirit who enters our spirits and begins to transform us to be more like Christ (Romans 8:29; John 14:26; Luke 24:49; Ephesians 1:13–14; Philippians 2:12–13). Jesus called this transaction being “born again” (John 3:3–8). When a baby is born, a new creature emerges that did not previously exist. Over time, that baby begins to look and act like the parents. So it is when we are born of the Spirit by receiving Jesus. We become children of God and begin to look and act more like our heavenly Father (Matthew 5:48; 2 Corinthians 5:17; 7:1; Ephesians 5:1).
+
+Receiving Jesus Christ into our lives is more than adding Him to an already cluttered priority list. He does not offer the option of being only a part of our lives. When we receive Him, we pledge to Him our allegiance and look to Him as the undisputed Lord of our lives (Luke 6:46; John 15:14). We will still disobey His commands at times (1 John 1:8–10). But the Holy Spirit within us draws us to repentance so that our close fellowship with God is restored (Psalm 51:7). Receiving Jesus is the beginning of a lifetime of discovery and an eternity of bliss in heaven with Him (John 3:36; Revelation 21—22).
+                  </p>
+
             <p>
               ( Romans 10:9-10 ) 
 "If you declare with your mouth, “Jesus is Lord,” and believe in your heart that God raised him from the dead, you will be saved. 10 For it is with your heart that you believe and are justified, and it is with your mouth that you profess your faith and are saved."
