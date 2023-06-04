@@ -72,7 +72,15 @@ export default function Home() {
         <div className={styles.grid}>
           
            <div className={styles.card}>
-            <h2 className={styles.chapter}>Receiving Christ</h2>
+            <h2 className={styles.chapter}>Receiving Christ? What's it Mean?</h2>
+            <p>
+              Many terms used in Christianity can be confusing to new believers or those seeking to know more about Jesus. One such phrase recurs often: “Receive Jesus Christ as your Savior.” What exactly does it mean to “receive” Jesus? Since Jesus lived, died, and rose again over two thousand years ago, how can we “receive” Him now?
+                
+                
+              </p>
+              <p>
+                John 1:11–12 speaks of receiving Jesus and defines the term: “He [Jesus] came to that which was his own, but his own did not receive him. Yet to all who did receive him, to those who believed in his name, he gave the right to become children of God.” John equates “receiving” Jesus with “believing” in Him, which results in one’s becoming a child of God. So, receiving Jesus has to do with faith. We trust who Jesus is and what He has done on our behalf.
+                </p>
             <p>
               ( Romans 10:9-10 ) 
 "If you declare with your mouth, “Jesus is Lord,” and believe in your heart that God raised him from the dead, you will be saved. 10 For it is with your heart that you believe and are justified, and it is with your mouth that you profess your faith and are saved."
