@@ -26,7 +26,7 @@ export default function Home() {
          <div  className={styles.image}>
           
        <Image 
-                                src="/receiving_christ.png"
+                                src="/wordle-christ_is_god.webp"
                                 alt="Jesus wordle"
                                 height={900}
                                 width={2000}
