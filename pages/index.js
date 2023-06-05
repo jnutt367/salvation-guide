@@ -66,10 +66,15 @@ export default function Home() {
                                 width={75}
                                 priority
                               />
-       </a>           
-        </div>
+       </a>    
 
-        <div className={styles.grid}>
+
+      </div>
+  <div className={styles.iframe}>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/e-71IaDiUkY" title="YouTube video player" frameborder="3" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+   </div> 
+
+<div className={styles.grid}>
           
            <div className={styles.card}>
             <h2 className={styles.chapter}>Receiving Christ? </h2>
