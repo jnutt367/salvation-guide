@@ -21,7 +21,7 @@ export default function Home() {
                 </h1>
         
         <h1 className={styles.title}>
-        Receiving Christ
+        RECEIVING CHRIST
         </h1>
          <div  className={styles.image}>
           
