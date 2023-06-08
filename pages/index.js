@@ -51,7 +51,7 @@ export default function Home() {
         <a href="https://the-word-of-god.vercel.app/">
           <p>HOME</p>
               <Image className={styles.arrow}
-                                src="/https://myproverbs.vercel.app/"
+                                src="/cross_button.webp"
                                 alt="youtube-icon"
                                 height={75}
                                 width={75}
