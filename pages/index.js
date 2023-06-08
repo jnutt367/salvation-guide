@@ -97,12 +97,15 @@ export default function Home() {
                   <p>
                   When we “receive” a birthday present, we accept it with gladness and embrace it. When a wide receiver “receives” the football, he pulls it to himself and clings to it. 
                   When we “receive” Jesus, we take Him into our heart and cling to the truth about Him... which means we begin a journey of getting to know the truth about Jesus. And adopt a responsability to do so
-                  in order that we may spread His word properly and know what it is that we are talking about when it comes to the fulness of Christ.
+                  in order that we may spread His word properly and know what it is that we are talking about when it comes to the fullness of Christ.
                   </p>
                   <p>
-To receive Jesus as our Savior means we look to Him and Him alone as the One who forgives our sin, mends our relationship with God, and provides us entrance to heaven. To reject Him as Savior means we either don’t believe we need salvation or are looking to another deliverer. Scripture is plain, however, that “salvation is found in no one else, for there is no other name under heaven given to mankind by which we must be saved” (Acts 4:12).
+To receive Jesus as our Savior means we look to Him and Him alone as the One who forgives our sin, mends our relationship with God, and provides us entrance to heaven. 
+To reject Him as Savior means we either don’t believe we need salvation or are looking to another deliverer. 
+Scripture is plain, however, that “salvation is found in no one else, for there is no other name under heaven given to mankind by which we must be saved” (Acts 4:12).
 
-To receive Jesus as our Lord means we let go of the lesser gods we have built our lives around. We may know the facts about Jesus as detailed in the Bible—we can even acknowledge the truth of those facts—without being a part of God’s family. We cannot receive Jesus as Lord without displacing the idols in our lives—idols such as power, popularity, wealth, or comfort that we trust to provide us with purpose and strength.
+To receive Jesus as our Lord means we let go of the lesser gods we have built our lives around. We may know the facts about Jesus as detailed in the Bible—we can even acknowledge the truth of those facts—without being a part of God’s family.
+We cannot receive Jesus as Lord without displacing the idols in our lives—idols such as power, popularity, wealth, or comfort that we trust to provide us with purpose and strength.
 Jesus described the need to follow Him wholeheartedly in Luke 9:23: “Whoever wants to be my disciple must deny themselves and take up their cross daily and follow me.”
 
 When Jesus visited His hometown of Nazareth, the people there did not believe He was anything other than the son of Mary and Joseph (Matthew 13:54–58; see also John 6:41–42). They accepted Him as a local carpenter but rejected Him as the promised Messiah. Many people today do a similar thing. They accept Jesus as a good moral teacher, a role model, or even a prophet who can teach us about God. But they stop short of receiving Him as their personal Lord and Savior. They do not commit their faith to Him.
@@ -174,7 +177,7 @@ So, what does he MEAN when He says "unless they are born of water and the Spirit
             className={styles.card}
           >
             <h2 className={styles.chapter}>The Sinner's Prayer</h2>
-            <p>If you are not quite ready or are not sure if you want to take that leap of faith, I want to invite you to check out this blog post: <a href="https://ourkingdomculture.com/how-to-be-saved/">How to be saved.</a>
+            <p>If you are not quite ready or are not sure if you want to take that leap of faith, I want to invite you to check out this blog post: <a href="https://ourkingdomculture.com/how-to-be-saved/"> How to be saved. </a>
 
  But if you feel Jesus knocking on your heart and you are ready to say yes to Him, just talk to Him and ask Him to come in your heart and be your Lord and savior. If you need help praying here is a little prayer you can say.
 
