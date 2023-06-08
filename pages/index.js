@@ -79,12 +79,16 @@ export default function Home() {
            <div className={styles.card}>
             <h2 className={styles.chapter}>Receiving Christ? </h2>
             <p>
-              Many terms used in Christianity can be confusing to new believers or those seeking to know more about Jesus. One such phrase recurs often: “Receive Jesus Christ as your Savior.” What exactly does it mean to “receive” Jesus? Since Jesus lived, died, and rose again over two thousand years ago, how can we “receive” Him now?
+              Hi Folx! I'm Jason...
+              A Christian Developer who has been studying and coding out the bible for about 3 years now.
+              I know that there are so many terms used in Christianity that can be confusing to new believers or those seeking to know more about Jesus. I hear this phrase a ton: “Receive Jesus Christ as your Savior.” 
+              “Receive Christ”?
+              What exactly does it mean to “receive” Jesus? Jesus lived, died, and rose again over two thousand years ago,  what does it mean to “receive” Him now?
                 
                 
               </p>
               <p>
-                John 1:11–12 speaks of receiving Jesus and defines the term: “He [Jesus] came to that which was his own, but his own did not receive him. Yet to all who did receive him, to those who believed in his name, he gave the right to become children of God.” John equates “receiving” Jesus with “believing” in Him, which results in one’s becoming a child of God. So, receiving Jesus has to do with faith. We trust who Jesus is and what He has done on our behalf.
+                John 1:11–12 speaks of receiving Jesus and defines the term: “He came to that which was his own, but his own did not receive him. Yet to all who did receive him, to those who believed in his name, he gave the right to become children of God.” John equates “receiving” Jesus with “believing” in Him, which results in one’s becoming a child of God. So, receiving Jesus has to do with faith. We trust who Jesus is and what He has done on our behalf.
                 </p>
 
                   <p>
@@ -95,7 +99,8 @@ export default function Home() {
                   <p>
 To receive Jesus as our Savior means we look to Him and Him alone as the One who forgives our sin, mends our relationship with God, and provides us entrance to heaven. To reject Him as Savior means we either don’t believe we need salvation or are looking to another deliverer. Scripture is plain, however, that “salvation is found in no one else, for there is no other name under heaven given to mankind by which we must be saved” (Acts 4:12).
 
-To receive Jesus as our Lord means we let go of the lesser gods we have built our lives around. We may know the facts about Jesus as detailed in the Bible—we can even acknowledge the truth of those facts—without being a part of God’s family. We cannot receive Jesus as Lord without displacing the idols in our lives—idols such as power, popularity, wealth, or comfort that we trust to provide us with purpose and strength. Jesus described the need to follow Him wholeheartedly in Luke 9:23: “Whoever wants to be my disciple must deny themselves and take up their cross daily and follow me.”
+To receive Jesus as our Lord means we let go of the lesser gods we have built our lives around. We may know the facts about Jesus as detailed in the Bible—we can even acknowledge the truth of those facts—without being a part of God’s family. We cannot receive Jesus as Lord without displacing the idols in our lives—idols such as power, popularity, wealth, or comfort that we trust to provide us with purpose and strength.
+Jesus described the need to follow Him wholeheartedly in Luke 9:23: “Whoever wants to be my disciple must deny themselves and take up their cross daily and follow me.”
 
 When Jesus visited His hometown of Nazareth, the people there did not believe He was anything other than the son of Mary and Joseph (Matthew 13:54–58; see also John 6:41–42). They accepted Him as a local carpenter but rejected Him as the promised Messiah. Many people today do a similar thing. They accept Jesus as a good moral teacher, a role model, or even a prophet who can teach us about God. But they stop short of receiving Him as their personal Lord and Savior. They do not commit their faith to Him.
 
@@ -108,7 +113,8 @@ To receive Jesus is to recognize that we are sinners separated from a holy God (
 When we receive Jesus as our Savior, God sends us the gift of His Holy Spirit who enters our spirits and begins to transform us to be more like Christ (Romans 8:29; John 14:26; Luke 24:49; Ephesians 1:13–14; Philippians 2:12–13). Jesus called this transaction being “born again” (John 3:3–8). When a baby is born, a new creature emerges that did not previously exist. Over time, that baby begins to look and act like the parents. So it is when we are born of the Spirit by receiving Jesus. We become children of God and begin to look and act more like our heavenly Father (Matthew 5:48; 2 Corinthians 5:17; 7:1; Ephesians 5:1).
 
 Receiving Jesus Christ into our lives is more than adding Him to an already cluttered priority list. He does not offer the option of being only a part of our lives. When we receive Him, we pledge to Him our allegiance and look to Him as the undisputed Lord of our lives (Luke 6:46; John 15:14). We will still disobey His commands at times (1 John 1:8–10). But the Holy Spirit within us draws us to repentance so that our close fellowship with God is restored (Psalm 51:7). Receiving Jesus is the beginning of a lifetime of discovery and an eternity of bliss in heaven with Him (John 3:36; Revelation 21—22).
-                  </p>
+  I am honored to have pledged to Him my allegiance, and am praying that You do as well.            
+  </p>
 
             <p>
               ( Romans 10:9-10 ) 
