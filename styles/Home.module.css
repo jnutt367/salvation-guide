@@ -435,12 +435,12 @@
 
 @media (min-width: 1080px) {
          .image {
-        padding-left: 400px;
-        padding-right: 400px;     
+        padding-left: 300px;
+        padding-right: 300px;     
     }
       .iframe {
-        padding-left: 400px;
-        padding-right: 400px;
+        padding-left: 250px;
+        padding-right: 250px;
     }    
     
            .grid {
