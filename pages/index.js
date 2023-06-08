@@ -37,9 +37,9 @@ export default function Home() {
           </div>    
 
 <div className={styles.nav}> 
-  <a href="https://www.youtube.com/channel/UCC4jNk2Tms-KNO1h1YOjfRw">
+  <a href="https://mypsalms.vercel.app/">
            <Image className={styles.arrow}
-                                src="/youtube-logo-png-hd-21.png"
+                                src="/cross_button.webp"
                                 alt="Left arrow"
                                 height={75}
                                 width={75}
@@ -58,9 +58,9 @@ export default function Home() {
        </a>
            
            
-        <a href="https://www.youtube.com/channel/UCC4jNk2Tms-KNO1h1YOjfRw">
+        <a href="https://myproverbs.vercel.app/">
              <Image className={styles.arrow}
-                                src="/youtube-logo-png-hd-21.png"
+                                src="/cross_button.webp"
                                 alt="right arrow"
                                  height={75}
                                 width={75}
