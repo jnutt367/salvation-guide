@@ -182,13 +182,14 @@ So, what does he MEAN when He says "unless they are born of water and the Spirit
 
  But if you feel Jesus knocking on your heart and you are ready to say yes to Him, just talk to Him and ask Him to come in your heart and be your Lord and savior. If you need help praying here is a little prayer you can say.
 
-DEAR GOD, I KNOW THAT I AM A SINNER AND I ASK YOU TO PLEASE FORGIVE MY SINS. I BELIEVE IN MY HEART THAT JESUS IS YOUR SON; THAT HE DIED FOR ME ON A CROSS AND YOU RAISED HIM BACK TO LIFE. JESUS, I DECLARE THAT YOU ARE MY LORD AND I OPEN MY HEART TO YOU. CHANGE ME AND HELP ME TO FOLLOW YOU ALL THE DAYS OF MY LIFE. HELP ME TO BE MORE LIKE YOU AND TO DO YOUR WILL.
-IN JESUS’S NAME, I PRAY.
+Dear GOD, I know that I am a sinner & I ask you to forgive my sins. I believe in my heart that Jesus is your son; That He died for me on o cross and that You raised Him back to life. Jesus, 
+  I declare that You are my Lord and open my heart to You. Change me and help me to follow you all the days of my life. Help me to do your will.
+In Jesus name I pray.
 AMEN.
 This prayer will also work..."God I believe everything that you say about Yourself and Your son Jesus, and your Holy Spirit that I read in your Word. And I want, I need, I am asking for You to come into my heart and trasform my mind in a way that only You can. And to do a marvelous thing in me that leads me to honor You and the great gospel of the coming of the long awaited King of Kings.
 It is an honor to receive you as my gracious and loving Father, my Savior and my eternal companion in Your Holy Spirit. You are the one and only God, three in one and Only one. I accept the free gift of salvation that you gave us when you died on that cross. Thank you heavenly Father for saving us from the coming wrath and showering us with your everlasting love and companionship."
 
-If you said that prayer and meant it with all your heart, then I want to be the first one to welcome you to the family of God! I promise you He is the best Father ever!!!
+If you said either one of those prayers and meant it with all your heart, then I want to be the first one to welcome you to the family of God! I promise you He is the best Father ever!!!
   </p>
 
   </div>
