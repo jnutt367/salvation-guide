@@ -164,7 +164,8 @@ opposite. We so often judge things by human standards, but God is not restrained
 Clarification on the subject of salvation, I feel it to be of utmost importance wouldn't ya know it LOL....but just to be clear I DO believe that one DOES need to be BORN AGAIN
   ....and no one can enter the kingdom of God unless they are born of water and the Spirit. Now then, that is where it gets to the discernment part right?
 
-So, what does he MEAN when He says "unless they are born of water and the Spirit."? Does that mean baptism? Or is being born again and baptism two separate events? I believe that they are. I know that I did NOT have to wait until I got in the water to receive a new heart, it came as soon as I first believed and called Him my savior, That moment was my salvation!!! Praise God forever and ever! Lastly, baptism IS somethhing that we NEED to do because clearly EVERYONE who becomes a disciple gets baptized if you listen to Jesus' command right at the very end of the gospel...MATTHEW 28:19 "therefore go and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit".   So it is the next logical step to be baptized after one becomes saved by calling on the name of the Lord Yeshua.
+So, what does he MEAN when He says "unless they are born of water and the Spirit."? Does that mean baptism? Or is being born again and baptism two separate events? I believe that they are. I know that I did NOT have to wait until I got in the water to receive a new heart, it came as soon as I first believed and called Him my savior, That moment was my salvation!!! Praise God forever and ever! Lastly, baptism IS somethhing that we NEED to do because clearly EVERYONE who becomes a disciple gets baptized if you listen to Jesus' command right at the very end of the gospel...MATTHEW 28:19 "therefore go and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit".  
+  So it is the next logical step to be baptized after one becomes saved by calling on the name of the Lord Yeshua.
 </p>
           </div>
 
@@ -184,6 +185,8 @@ So, what does he MEAN when He says "unless they are born of water and the Spirit
 DEAR GOD, I KNOW THAT I AM A SINNER AND I ASK YOU TO PLEASE FORGIVE MY SINS. I BELIEVE IN MY HEART THAT JESUS IS YOUR SON; THAT HE DIED FOR ME ON A CROSS AND YOU RAISED HIM BACK TO LIFE. JESUS, I DECLARE THAT YOU ARE MY LORD AND I OPEN MY HEART TO YOU. CHANGE ME AND HELP ME TO FOLLOW YOU ALL THE DAYS OF MY LIFE. HELP ME TO BE MORE LIKE YOU AND TO DO YOUR WILL.
 IN JESUS’S NAME, I PRAY.
 AMEN.
+This prayer will also work..."God I believe everything that you say about Yourself and Your son Jesus, and your Holy Spirit that I read in your Word. And I want, I need, I am asking for You to come into my heart and trasform my mind in a way that only You can. And to do a marvelous thing in me that leads me to honor You and the great gospel of the coming of the long awaited King of Kings.
+It is an honor to receive you as my gracious and loving Father, my Savior and my eternal companion in Your Holy Spirit. You are the one and only God, three in one and Only one. I accept the free gift of salvation that you gave us when you died on that cross. Thank you heavenly Father for saving us from the coming wrath and showering us with your everlasting love and companionship."
 
 If you said that prayer and meant it with all your heart, then I want to be the first one to welcome you to the family of God! I promise you He is the best Father ever!!!
   </p>
