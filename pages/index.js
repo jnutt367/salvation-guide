@@ -26,8 +26,8 @@ export default function Home() {
          <div  className={styles.image}>
           
        <Image 
-                                src="/wordle-christ_is_god.webp"
-                                alt="Jesus wordle"
+                                src="/blue_letter_bible.jpeg"
+                                alt="The Revealation wordle"
                                 height={900}
                                 width={2000}
                                 priority
