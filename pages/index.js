@@ -26,7 +26,7 @@ export default function Home() {
          <div  className={styles.image}>
           
        <Image 
-                                src="/wordle-christ_is_god.webp"
+                                src="/receiving.png"
                                 alt="The Revealation wordle"
                                 height={900}
                                 width={2000}
@@ -37,36 +37,33 @@ export default function Home() {
           </div>    
 
 <div className={styles.nav}> 
-  <a href="https://mypsalms.vercel.app/">
-    <p>PSALMS</p>
+  <a href="https://the-revelation.vercel.app/">
            <Image className={styles.arrow}
-                                src="/cross_button.webp"
-                                alt="Left arrow"
+                                src="/previous.webp"
+                                alt="Left"
                                 height={75}
-                                width={75}
+                                width={90}
                                 priority
                               />
        </a>
 
         <a href="https://the-word-of-god.vercel.app/">
-          <p>HOME</p>
               <Image className={styles.arrow}
-                                src="/cross_button.webp"
-                                alt="youtube-icon"
+                                src="/upward_pointing.webp"
+                                alt="home"
                                 height={75}
-                                width={75}
+                                width={90}
                                 priority
                               /> 
        </a>
            
            
-        <a href="https://myproverbs.vercel.app/">
-          <p>PROVERBS</p>
+        <a href="https://the-word-of-god.vercel.app/">
              <Image className={styles.arrow}
-                                src="/cross_button.webp"
-                                alt="right arrow"
+                                src="/next.webp"
+                                alt="right"
                                  height={75}
-                                width={75}
+                                width={90}
                                 priority
                               />
        </a>    
