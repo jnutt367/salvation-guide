@@ -5,6 +5,7 @@
     position: relative;
 }
 */
+
 .container {
   background-color: black;
   width: 100%;
@@ -18,7 +19,7 @@
 
 
 .holy {
-  backgroud-color: silver;
+  backgroud-color: black;
   color: white;
   font-family: Ariel, sans, serif, sans-serif, cursive, fantasy;
   position: relative;
@@ -45,7 +46,11 @@
   justify-items: center;
   tex-align: left;
 }
-
+.red:active,
+.red:focus,
+.red:hover {
+    color: ;
+}
 /*
 .main {
     background-color: black;
@@ -60,9 +65,12 @@
 }
 */
 .main {
+  display: grid;
+  align-items: center;
+  justify-content: center;  
   background-color:  black;
   min-height: 100vh;  
-  padding: 4rem 0;  
+  padding: 4rem 0;
   position:relative;
   top: 10px;
 }
@@ -71,7 +79,7 @@
 }
 .fund {
    text-align: center;
-    color: white;
+    color: black;
     position: relative;
     padding-right: 20px;
     padding-left: 20px;
@@ -80,11 +88,20 @@
     font-family:"Times New Roman", Times, serif;
     font-weight: 900;
 }
-
+.parables {
+    display: grid;
+    text-align: center;
+    color: white;
+    position: relative;
+    padding-right: 50px;
+    padding-left: 50px;
+    margin-top: 25px;
+    top: -15px;
+    font-family: Ariel, sans, sans-serif, "Times New Roman", Times, serif;
+    font-weight: 200;
+}
 .image {
-    /*background-image: url(/matthew_black.jpeg);*/
-    background-size: contain;
-    background-repeat: no-repeat;
+    /*background-image: url(/frmilky_way_galaxy_star-image-kybd7u7d.jpeg);*/
     text-align: center;
     background-color: black;
     opacity: 0.5;
@@ -96,9 +113,12 @@
     align-items: center;
     justify-content: center;
     max-height: 900px; 
-    border-: 50px 0px 10px solid skyblue;
     alig-items: center;
     opacity: 1;
+}
+.book {
+    text-align: center;
+    font-family: fantasy, cursive, Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 .donate {
   background-color:white;
@@ -127,6 +147,7 @@
     align-items: center;
 }
 .hero {
+  max-width: 1350px;
   position:relative;
   top: -105px;
 }
@@ -138,7 +159,7 @@
 .footer a {
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: center;   
     flex-grow: 1;
 }
 
@@ -193,12 +214,12 @@
   color: white;
   position: sticky; 
   background-color: black;
-  opacity: 0.95;
+  opacity: 0.5;
   padding-top: 40px;
   z-index: 2;
-  top: -30px;
-  margin-top: -135px;
-  font-family: Ariel, sans, , serif, sans-serif, cursive, fantasy;
+  top: -45px;
+  margin-top: -105px;
+  font-family: Ariel, sans, serif, sans-serif, cursive, fantasy;
   font-size: 64px;
 }
 
@@ -243,19 +264,14 @@
     cursor:pointer;
 }
 
-.span {
-    font-size: xx-large;
-    color: orange;
-    text-shadow: 1px 1px black;
-}
+
 
 .span:hover {
-    color: white;
+    color: #880808;
 }
 
 .nav {
-    background-color: white;
-    border: 2px solid  #bf9b30;
+    background-color: #ADD8E6;
     opacity: 1;
     padding: 5px;
     display: flex;
@@ -277,8 +293,8 @@
 }
 
 .grid {
-    background-color: black;
-    color: white;
+    background-color: #ADD8E6;
+    color: black;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -309,16 +325,15 @@
 }
 
 .card {
-    background-image: url(/wordle-christ_is_god.webp);
+    background-image: url(/proverbs_cards.png);
     background-repeat: no-repeat;
     background-position: center;
     background-position-x: center;
     background-position-y: center;
     background-origin: content-box;
-    background-size: contain;
+    background-size: cover;
     display: grid;
     place-items: center;
-    border-radius: 15px 50px 30px;
     background-repeat: no-repeat;
     color: transparent;
     margin: 1.5rem;
@@ -329,42 +344,38 @@
     max-height: 400px;
     max-width: 400px;
     background-color: black;
+    border-radius: 15px 50px 30px;
     overflow: hidden;
     text-decoration: none;
     border: 3px solid #eaeaea;
-    transition: color 0.15s ease, border-color 2s ease;
+    transition: color 0.15s ease, border-color 0.7s ease;
     font-family: monospace;
     box-shadow: lightblue 0px 5px 15px;
 }
 .chapter {
-    background-color: white;
-    color: black;
+    background-color: black;
+    color: white;
+    opacity: 0.8;
     opacity: 1;
     position: sticky;
     z-index: 1;
     width: 100%;
     text-align: center;
     top: 0px;
-    border: 2px solid #bf9b30;
     margin: 0;
     padding-top: 25px;
     padding-bottom: 5px;
     font-family: Ariel, sans, serif, sans-serif, cursive, fantasy;
 }
-.chapter:hover,
-.chapter:focus,
-.chapter:active {
-    font-weight: bolder;
-    opacity: 1;
-}
+
 .card:hover,
 .card:focus,
 .card:active {
     display: inline;
-    color: #800808;
+    color: black;
     opacity: 1;
-    border: 6px solid #800808;
-    background-image: url(/paper.jpg);
+    border: 6px solid white;
+    background-image: url(/paper.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
     cursor: all-scroll;
@@ -394,7 +405,11 @@
 .card p:hover {
     font-weight: 900;
 }
-
+.chapter:hover,
+.chapter:active,
+.chapter:focus {
+       color: white;
+}
 .logo {
     height: 1em;
     margin-left: 0.5rem;
@@ -411,7 +426,7 @@
 .publisher {
     font-family: Arial, Verdana, Tahoma, Trebuchet MS, Times New Roman, Georgia, Garamond, Courier New, Brush Script MT; 
     color: white;
-    margin-left: 2rem;
+    text-align: center;
 }
 
 @media (max-width: 600px) {
@@ -419,6 +434,7 @@
         width: 100%;
         flex-direction: column;
     }
+   
 }
 
 @media (max-width: 769px) {
@@ -432,20 +448,27 @@
     }
 }
 
-
+@media (min-width: 769x) {
+     .fund {
+        padding-right: 120px;
+        padding-left: 120px; 
+    }
+}
 @media (min-width: 1080px) {
          .image {
-        padding-left: 300px;
-        padding-right: 300px;     
+        padding-left: 200px;
+        padding-right: 200px;
+        margin-left: 100px; 
+        margin-right: 100px;      
     }
-      .iframe {
-        padding-left: 250px;
-        padding-right: 250px;
-    }    
-    
-           .grid {
+   
+        .grid {
         grid-template-columns: 200px 200px 200px;
         
+    }
+    .iframe {
+        padding-left: 200px;
+        padding-right: 200px;
     }
 }
    
@@ -456,7 +479,7 @@
         display: grid;
     }
     .image {
-        padding: 15px;
+        padding: 0;
         border: none;
     }
     .holy {
