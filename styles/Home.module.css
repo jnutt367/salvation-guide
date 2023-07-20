@@ -353,10 +353,9 @@
     box-shadow: lightblue 0px 5px 15px;
 }
 .chapter {
-    background-color: black;
-    color: white;
-    opacity: 0.8;
-    opacity: 1;
+    background-color: #ADD8E6;
+    color: black;
+    opacity: 0.7;
     position: sticky;
     z-index: 1;
     width: 100%;
@@ -390,9 +389,6 @@
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
-.card h2:hover {
-    color: black;
-}
 
 .card p {
     margin: 0;
