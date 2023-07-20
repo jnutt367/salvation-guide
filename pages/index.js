@@ -49,7 +49,7 @@ export default function Home() {
 
         <a href="https://the-word-of-god.vercel.app/">
               <Image className={styles.arrow}
-                                src="/upward_pointing.webp"
+                                src="/home.webp"
                                 alt="home"
                                 height={75}
                                 width={90}
