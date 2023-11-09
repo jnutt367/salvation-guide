@@ -17,21 +17,15 @@ export default function Home() {
           <h2 className={styles.holy}>THE WORD
             </h2>
                 <h1 className={styles.bible}>
-                    <a href="https://the-word-of-god.vercel.app/" target="_blank">OF GOD</a>
+                    <a href="https://thewordofgodrisen.vercel.app" target="_blank">OF GOD</a>
                 </h1>
         
         <h1 className={styles.title}>
-        RECEIVING CHRIST
+       ETERNAL LIFE
         </h1>
-         <div  className={styles.image}>
+         <div  className={styles.iframe}>
           
-       <Image 
-                                src="/receiving.png"
-                                alt="The Revealation wordle"
-                                height={900}
-                                width={2000}
-                                priority
-                              />
+      <iframe width="100%" height="315" src="https://www.youtube.com/embed/uCOycIMyJZM?si=2-AAha4hMfOVQxIC?autoplay=1&mute=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
          
 
           </div>    
