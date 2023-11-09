@@ -32,32 +32,42 @@ export default function Home() {
 
 <div className={styles.nav}> 
   <a href="https://the-revelation.vercel.app/">
+    <p>
+    Previous
+    </p>
            <Image className={styles.arrow}
                                 src="/previous.webp"
                                 alt="Left"
-                                height={75}
-                                width={90}
+                               height={50}
+                                width={50}
                                 priority
                               />
        </a>
 
         <a href="https://cash.app/$JNutt367">
+
+ <p>
+             Offerings                     
+                                  </p>
               <Image className={styles.arrow}
                                 src="/donations_please.webp"
                                 alt="home"
-                                height={75}
-                                width={90}
+                                height={50}
+                                width={50}
                                 priority
                               /> 
        </a>
            
            
         <a href="https://the-word-of-god.vercel.app/">
+ <p>
+                                  Next       
+                                  </p>                                  
              <Image className={styles.arrow}
                                 src="/next.webp"
                                 alt="right"
-                                 height={75}
-                                width={90}
+                                height={50}
+                                width={50}
                                 priority
                               />
        </a>    
