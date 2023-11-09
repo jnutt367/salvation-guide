@@ -72,15 +72,49 @@ export default function Home() {
           
            <div className={styles.card}>
             <h2 className={styles.chapter}>Receiving Christ? </h2>
-            <p>
-              Hi Folx! I'm Jason...
-              A Christian Developer who has been studying and coding out the bible for about 3 years now.
-              I know that there are so many terms used in Christianity that can be confusing to new believers or those seeking to know more about Jesus. I hear this phrase a ton: “Receive Jesus Christ as your Savior.” 
-              “Receive Christ”?
-              What exactly does it mean to “receive” Jesus? Jesus lived, died, and rose again over two thousand years ago,  what does it mean to “receive” Him now?
+                            <p>
+                              Hi, I'm Jason...
+                              A Christian Developer who has been studying and coding out the bible for about 3 years now.
+                              I know that there are so many terms used in Christianity that can be confusing to new believers or those seeking to know more about Jesus. I hear this phrase a ton:
+                                                “Receive Jesus Christ as your Savior.” 
+                              “Receive Christ”?
+                              What exactly does it mean to “receive” Jesus? Jesus lived, died, and rose again over two thousand years ago,  what does it mean to “receive” Him now?
+                                
+                           </p>
+
+                            <p>
+                            God planned a life of peace and satisfaction for us through Jesus Christ.  But we first must be in His family to fulfill the plan He has for us and for us to go to Heaven.  Salvation is not about being a good person, stopping bad behaviors, or whether you attend church or not.  
+                                            It’s about you making a conscious decision to go in a different direction and to let Jesus Christ be your Lord. Here are the steps:
+                            </p>
+                            <p>
+                                              REPENT
+                            Make a firm inward decision to go in a different direction followed by an outward act to carry out that decision.
+                            </p>
+
+                            <p>
+                                          BELIEVE
+                            Believe on Jesus as Lord and that He died for your sins and rose from the dead so you could have everlasting life in a permanent relationship with God, the Father.                             
+                              
+                            </p>
+
+
+                            <p>
+                                                                CALL
+                                  Call on Jesus to come into your heart by faith.                              
+                              </p>
+
+                                    <p>
+                                                                            CONFESS
+                                        Confess that Jesus Christ is Lord of your life.  According to Romans 10:9-10, if you confess with your mouth, ‘Jesus is Lord’, and believe in your heart that God raised Him from the dead, you will be saved.
+                                        
+                                        If you would like for Jesus to save you, then say this prayer out loud to God:
+                                      </p>
+                                      <p>
+                                      Dear God, I recognize that I am a sinner and need Jesus as my Savior. I believe Jesus died for my sins and was raised from the dead. I repent and turn to Jesus. 
+                                        I receive Jesus as my Savior and confess You as my Lord. Thank you Jesus for saving me. In Jesus’ Name. Amen.                                   
+                                      </p>
+                              
                 
-                
-              </p>
               <p>
                 John 1:11–12 speaks of receiving Jesus and defines the term: “He came to that which was his own, but his own did not receive him. Yet to all who did receive him, to those who believed in his name, he gave the right to become children of God.” John equates “receiving” Jesus with “believing” in Him, which results in one’s becoming a child of God. So, receiving Jesus has to do with faith. We trust who Jesus is and what He has done on our behalf.
                 </p>
