@@ -25,21 +25,19 @@ export default function Home() {
         </h1>
          <div  className={styles.iframe}>
           
-      <iframe width="100%" height="315" src="https://www.youtube.com/embed/uCOycIMyJZM?si=2-AAha4hMfOVQxIC?autoplay=1&mute=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+      <iframe width="100%" height="300" src="https://www.youtube.com/embed/uCOycIMyJZM?si=2-AAha4hMfOVQxIC?autoplay=1&mute=1" title="YouTube video player" frameborder="10" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
          
 
           </div>    
 
 <div className={styles.nav}> 
   <a href="https://the-revelation.vercel.app/">
-    <p>
-    Previous
-    </p>
+    <p>Prev</p>
            <Image className={styles.arrow}
                                 src="/previous.webp"
                                 alt="Left"
-                               height={50}
-                                width={50}
+                               height={25}
+                                width={25}
                                 priority
                               />
        </a>
@@ -47,13 +45,13 @@ export default function Home() {
         <a href="https://cash.app/$JNutt367">
 
  <p>
-             Offerings                     
+            <p>Give</p>                  
                                   </p>
               <Image className={styles.arrow}
                                 src="/donations_please.webp"
                                 alt="home"
-                                height={50}
-                                width={50}
+                                height={25}
+                                width={25}
                                 priority
                               /> 
        </a>
@@ -66,8 +64,8 @@ export default function Home() {
              <Image className={styles.arrow}
                                 src="/next.webp"
                                 alt="right"
-                                height={50}
-                                width={50}
+                                height={25}
+                                width={25}
                                 priority
                               />
        </a>    
