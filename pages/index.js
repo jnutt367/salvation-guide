@@ -29,7 +29,7 @@ export default function Home() {
        ETERNAL LIFE
         </h1>
      <div className={styles.iframe1}>
-                                      <iframe width="100%" height="300" src="https://www.youtube.com/embed/_c3WIBen-aA?si=-468bJiF5TooM2p1&autoplay=1&mute=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                                      <iframe width="100%" height="300" src="https://www.youtube.com/embed/_c3WIBen-aA?si=-468bJiF5TooM2p1&autoplay=1&mute=1" title="YouTube video player" frameborder="10" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                                   </div> 
  <p className={styles.parables}>
                                  “Repent & be baptized, every one of you, in the name of Jesus Christ for forgiveness of your sins.
