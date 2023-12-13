@@ -23,13 +23,18 @@ export default function Home() {
         <h1 className={styles.title}>
        ETERNAL LIFE
         </h1>
-         <div  className={styles.iframe}>
+         <div  className={styles.iframe1}>
           
       <iframe width="100%" height="300" src="https://www.youtube.com/embed/uCOycIMyJZM?si=2-AAha4hMfOVQxIC?autoplay=1&mute=1" title="YouTube video player" frameborder="10" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
          
 
           </div>    
 
+ <p className={styles.parables}>
+                                 “Repent & be baptized, every one of you, in the name of Jesus Christ for forgiveness of your sins.
+    </p>  
+
+    
 <div className={styles.nav}> 
   <a href="https://the-revelation.vercel.app/">
     <p>Prev</p>
