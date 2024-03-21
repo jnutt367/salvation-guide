@@ -16,6 +16,16 @@
   text-align: left;
   position: relative;
 }
+.iframe {
+    padding: 10px;
+    position: relative;
+    top: 200px;
+    animation-name: iframe1;
+    animation-duration: 1s;  
+    animation-iteration-count: 1;
+    animation-timing-function: ease-out; 
+}
+
 .iframe1 {
     padding: 10px;
     position: relative;
