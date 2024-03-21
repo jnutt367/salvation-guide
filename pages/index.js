@@ -28,14 +28,9 @@ export default function Home() {
 
            <li> <a href="#"><img class="logo" src="images/jn-logo.png"/></a></li>
           
-            <li><a href="#home">
-            <button style="margin-bottom: 10px;" id="toggleDropdown"><i class="bi bi-journal-bookmark-fill"></i> Books</button>
-            <div id="dropdownContent" class="dropdown-content">
-                 Books will be dynamically added here -->
-                <!-- Example:
-                <a href="#">Genesis</a>
+          
                
-            </div>
+    </div>
         </a></li> -->
              <a href="testimony.html"><i class="bi bi-pen-fill"></i></a>
             <li><a class="smooth-transition" href="testimony.html">Testimony  </a></li>
@@ -43,7 +38,7 @@ export default function Home() {
              <a href="https://www.youtube.com/channel/UCC4jNk2Tms-KNO1h1YOjfRw"> <i class="bi bi-youtube"></i> </a>
             <li><a class="smooth-transition" href="https://www.youtube.com/channel/UCC4jNk2Tms-KNO1h1YOjfRw">Youtube </a></li>
             <a href="https://cash.app/$jnuttwebdev1"><i class="bi bi-cup-hot-fill"></i></a> 
-            <!-- Add other navigation items here -->
+           
        <li><a class="smooth-transition" href="https://cash.app/$jnuttwebdev1"> Buy Me a Coffee!   </a></li>
 
  
