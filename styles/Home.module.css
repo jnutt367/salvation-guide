@@ -130,9 +130,9 @@
     padding-left: 50px;
     margin-top: 25px;
     top: -15px;
-    font-family: sans, sans-serif, "Times New Roman", Times, serif;
+    font-family: serif;
     font-weight: 200;
-    font-size: 1.5em;
+    font-size: 1em;
    animation-name: parables;
     animation-duration: 2s;  
     animation-iteration-count: 1;
@@ -650,13 +650,13 @@
     margin-top: 25px;
     left: 550px;   
     top: 15px;
-    line-height: 2.5em; 
+    line-height: 2em; 
     width: 300px;
     border: 1px solid white;
     border-radius: 15px;
     background-image: linear-gradient(to bottom right,rgb(238, 230, 237), rgb(238, 230, 237));    
     opacity:0.7;  
-    font-family: sans, sans-serif, "Times New Roman", Times, serif;
+    font-family: serif;
     font-weight: 200;
     font-size: 1.5em;
   }
