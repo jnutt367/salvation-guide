@@ -8,7 +8,7 @@
 
 .container {
   background-color: black;
-  background-image: linear-gradient(to bottom right, #BCB88A, #C7E0D4);  
+  background-image: linear-gradient(to bottom right, rgb(238, 230, 237), rgba(229, 144, 225, 0.75));  
   width: 100%;
   display: grid;
   align-items: center;
