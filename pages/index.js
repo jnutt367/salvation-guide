@@ -20,6 +20,39 @@ export default function Home() {
         />           
       </Head>
 
+  <div class="iframe1">
+    <iframe src="https://api.chatlab.com/aichat/iframe?apiKey=d5a4bf57-ad50-41c9-a2df-fc39065dceba&iFrameMode=true" width="100%" height="300px"></iframe>
+    </div>
+    <nav class="sticky-nav">
+        <ul style="text-align:left">
+
+           <li> <a href="#"><img class="logo" src="images/jn-logo.png"></a></li>
+            <!--
+            <li><a href="#home">
+            <button style="margin-bottom: 10px;" id="toggleDropdown"><i class="bi bi-journal-bookmark-fill"></i> Books</button>
+            <div id="dropdownContent" class="dropdown-content">
+                 Books will be dynamically added here -->
+                <!-- Example:
+                <a href="#">Genesis</a>
+               
+            </div>
+        </a></li> -->
+             <a href="testimony.html"><i class="bi bi-pen-fill"></i></a>
+            <li><a class="smooth-transition" href="testimony.html">Testimony  </a></li>
+           
+             <a href="https://www.youtube.com/channel/UCC4jNk2Tms-KNO1h1YOjfRw"> <i class="bi bi-youtube"></i> </a>
+            <li><a class="smooth-transition" href="https://www.youtube.com/channel/UCC4jNk2Tms-KNO1h1YOjfRw">Youtube </a></li>
+            <a href="https://cash.app/$jnuttwebdev1"><i class="bi bi-cup-hot-fill"></i></a> 
+            <!-- Add other navigation items here -->
+       <li><a class="smooth-transition" href="https://cash.app/$jnuttwebdev1"> Buy Me a Coffee!   </a></li>
+
+ 
+           
+
+
+
+        </ul>
+    </nav>            
       <main className={styles.main}>
        
           <div className={styles.hero}>
@@ -40,48 +73,7 @@ export default function Home() {
     </p>  
 
     
-<div className={styles.nav}> 
-  <a href="https://the-revelation.vercel.app/">
-    <p>Prev</p>
-           <Image className={styles.arrow}
-                                src="/previous.webp"
-                                alt="Left"
-                               height={25}
-                                width={25}
-                                priority
-                              />
-       </a>
 
-        <a href="https://cash.app/$JNutt367">
-
- <p>
-            <p>Give</p>                  
-                                  </p>
-              <Image className={styles.arrow}
-                                src="/donations_please.webp"
-                                alt="home"
-                                height={25}
-                                width={25}
-                                priority
-                              /> 
-       </a>
-           
-           
-        <a href="https://the-word-of-god.vercel.app/">
- <p>
-                                  Next       
-                                  </p>                                  
-             <Image className={styles.arrow}
-                                src="/next.webp"
-                                alt="right"
-                                height={25}
-                                width={25}
-                                priority
-                              />
-       </a>    
-
-
-      </div>
                                   
 
     <div  className={styles.iframe}>
