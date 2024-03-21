@@ -27,7 +27,7 @@ export default function Home() {
         <ul style="text-align:left">
 
            <li> <a href="#"><img class="logo" src="images/jn-logo.png"/></a></li>
-            <!--
+          
             <li><a href="#home">
             <button style="margin-bottom: 10px;" id="toggleDropdown"><i class="bi bi-journal-bookmark-fill"></i> Books</button>
             <div id="dropdownContent" class="dropdown-content">
