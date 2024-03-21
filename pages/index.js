@@ -20,34 +20,10 @@ export default function Home() {
         />           
       </Head>
 
-  <div class="iframe1">
+  <div className={styles.iframe1">
     <iframe src="https://api.chatlab.com/aichat/iframe?apiKey=d5a4bf57-ad50-41c9-a2df-fc39065dceba&iFrameMode=true" width="100%" height="300px"></iframe>
     </div>
-    <nav class="sticky-nav">
-        <ul style="text-align:left">
-
-           <li> <a href="#"><img class="logo" src="images/jn-logo.png"/></a></li>
-          
-          
-               
-    </div>
-        </a></li> -->
-             <a href="testimony.html"><i class="bi bi-pen-fill"></i></a>
-            <li><a class="smooth-transition" href="testimony.html">Testimony  </a></li>
-           
-             <a href="https://www.youtube.com/channel/UCC4jNk2Tms-KNO1h1YOjfRw"> <i class="bi bi-youtube"></i> </a>
-            <li><a class="smooth-transition" href="https://www.youtube.com/channel/UCC4jNk2Tms-KNO1h1YOjfRw">Youtube </a></li>
-            <a href="https://cash.app/$jnuttwebdev1"><i class="bi bi-cup-hot-fill"></i></a> 
-           
-       <li><a class="smooth-transition" href="https://cash.app/$jnuttwebdev1"> Buy Me a Coffee!   </a></li>
-
- 
-           
-
-
-
-        </ul>
-    </nav>            
+   
       <main className={styles.main}>
        
           <div className={styles.hero}>
